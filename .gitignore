@@ -1,0 +1,6 @@
+.schema/
+__pycache__/
+*.pyc
+.wake/
+dist/
+.venv/
